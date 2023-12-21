@@ -31,7 +31,7 @@ result.style.visibility = "hidden"
 function start() {
 textFinal.innerHTML = " ";
 jogo.length = 0;
-trocaText.innerHTML = "Sorteio entre 01 - 60 ";
+trocaText.innerHTML = "Sorteio Mega Sena <br> da Virada 2023 ";
 result.style.cursor = "pointer";
 result.disabled = false;
 novo.style.visibility = "hidden"

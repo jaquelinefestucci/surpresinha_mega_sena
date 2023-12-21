@@ -65,6 +65,7 @@ h1 {
     font-size: 200%;
     text-shadow: -1px 0 rgb(252, 247, 247), 0 1px rgb(235, 230, 230), 1px 0 rgb(247, 244, 244), 0 -1px rgb(238, 234, 234);
     margin-top: 8%;
+    text-align: center;
 }
 
 .buttons {
